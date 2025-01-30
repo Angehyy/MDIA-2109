@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+ol {
+    padding: 1%;
+    margin-left: 2%;
+}
+
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    padding: 2em;
+    background-color:#BCC0C8;
+}
+
+.container {
+    margin: 1em;
+    border: 2px solid #ff6961;
+    border-radius: 5px;
+    padding: 1em;
+}
